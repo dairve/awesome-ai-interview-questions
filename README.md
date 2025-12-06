@@ -242,8 +242,7 @@ Contributions are welcome! Please:
 ## 📬 Contact
 
 - **GitHub:** [@codiebyheaart](https://github.com/codiebyheaart)
-- **LinkedIn:** [Your Profile]
-- **Portfolio:** [Your Website]
+
 
 ---
 
